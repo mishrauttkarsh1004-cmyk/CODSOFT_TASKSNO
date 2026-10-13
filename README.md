@@ -1,7 +1,7 @@
-# CODSOFT Data Science Internship Tasks
+# CODSOFT Data Analytics Internship Tasks
 
 ## Project Overview
-This repository contains the projects completed as part of my **CODSOFT Data Science Internship**. The projects focus on data cleaning, exploratory data analysis, and data visualization using Python.
+This repository contains the projects completed as part of my **CODSOFT Data Analytics Internship**. The projects focus on data cleaning, exploratory data analysis, and data visualization using Python.
 
 ## Tasks Completed
 
